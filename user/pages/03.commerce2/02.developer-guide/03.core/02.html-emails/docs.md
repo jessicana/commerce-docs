@@ -8,7 +8,7 @@ taxonomy:
 
 ## Swift Mailer module
 
-The [Swift Mailer](https://www.drupal.org/project/swiftmailer) module can be used with Commerce in order to send HTML emails. The Swift Mailer library has also been proposed to be added to core to deprecate most of Drupal core's mailsystem. More can be found https://www.drupal.org/node/1803948.
+The [Swift Mailer](https://www.drupal.org/project/swiftmailer) module can be used with Commerce in order to send HTML emails. The Swift Mailer library has also been proposed to be added to core to deprecate most of Drupal core's mailsystem. More can be found https://www.drupal.org/node/1803948. Note that swiftmailer has been retired and is no longer supported. 
 
 ## Installation
 
